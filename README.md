@@ -135,6 +135,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 Rushikesh Patil
+ruship0070@gmail.com
 
 ```
 ```
