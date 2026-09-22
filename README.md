@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-Customer churn prediction is a machine learning project that identifies whether a customer is likely to leave a service. This helps companies take proactive actions to retain customers and reduce revenue loss.
+Customer churn prediction is a machine learning project that identifies whether a customer is likely to leave a service. This helps companies take proactive actions to retain customers and reduce revenue loss
 
 ---
 
